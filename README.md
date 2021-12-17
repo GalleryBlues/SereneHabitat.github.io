@@ -1,2 +1,2 @@
-# SereneHabitat.github.io
+# http://SereneHabitat.github.io
 Our beautiful website
